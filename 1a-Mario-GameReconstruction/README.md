@@ -26,10 +26,3 @@ Here's how the program will work if the user inputs *8* when prompted:
 
 
 
-1. Implement **cash.c**. Based on the *greedy algorithm*, the programme provides cashiers the way to minimise numbers of coins when making a change. 
-1. Implement **credit.c**. Based on the *Luhn's algorithm*, the programme determines if a credit card number is valid and evaluates whether the card is Amex, Mastercard or Visa. 
-
-
-<img src="https://github.com/YingXie24/harvardx-CS50-introduction-to-computer-science/blob/new-branch/project1-C-mario-cash-credit/cash.PNG" width=30% height=30%>
-
-
