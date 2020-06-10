@@ -9,4 +9,6 @@ A message like *HELLO*, then, would be encrypted as *FOLLE*, replacing each of t
 **Here, the programme enables the user to encrypt messages using a substitution cipher.** At the time the user executes the program, they can decide, by providing a command-line argument, on what key should be in the secret message they will provide at runtime. 
 
 This is how the program might work. If the user inputs a key of *VCHPRZGJNTLSKFBDQWAXEUYMOI* and a plaintext of *hello, world*:
+
+
 <img src="https://github.com/YingXie24/images/blob/master/C-2b-Encryption-RSC/EncryptionWorks.PNG" width=80% >
