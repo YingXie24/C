@@ -13,4 +13,6 @@ where *L* is the  average number of letters per 100 words in the text, and *S* i
 **The readability.c programme takes a text and determines its reading level.** 
 For example, if user types in a line from Dr Seuss:
 
+<img src="https://github.com/YingXie24/images/blob/master/C-2a-Modelling-Readability/ReadabilityWorks.PNG" width=80% >
+
 The text the user inputted has 65 letters, 4 sentences, and 14 words. 65 letters per 14 words is an average of about 464.29 letters per 100 words. And 4 sentences per 14 words is an average of about 28.57 sentences per 100 words. Plugged into the Coleman-Liau formula, and rounded to the nearest whole number, we get an answer of 3: so this passage is at a third grade reading level.
