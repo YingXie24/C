@@ -24,5 +24,7 @@ Here's how the program will work if the user inputs *8* when prompted:
 
 <img src="https://github.com/YingXie24/images/blob/master/C-1a-Mario-GameReconstruction/MarioMoreWorks.PNG" width=80%  >
 
+Enjoy!
+
 
 
